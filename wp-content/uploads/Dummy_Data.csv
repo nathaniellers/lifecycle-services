@@ -1,0 +1,28 @@
+﻿Opportunity name,"Sales 
+agent","Sales 
+region","Sales 
+category",Forecast amount,Probability of sale
+Adatum Corporation,Rowan Murphy,US - Northeast,Consulting,"$150,000",90%
+Adventure Works,Miho Kojima,US - Southeast,Products,"$145,200",10%
+Alpine Ski House,Cora Thomas,US - North Central,Training,"$162,500",20%
+Baldwin Museum of Science,Ellis Turner,US - South Central,Mixture,"$147,500",30%
+Blue Yonder Airlines,Suma Kini,US - Northwest,Prof. services,"$148,000",40%
+City Power & Light,Rowan Murphy,US - Southwest,Support,"$175,000",50%
+Coho Vineyard,Cora Thomas,Canada - East,Mixture,"$149,000",60%
+Coho Winery,Suma Kini,Canada - West,Training,"$142,000",70%
+"Contoso, Ltd.",Cora Thomas,EMEA - France,Mixture,"$172,500",90%
+Contoso Pharmaceuticals,Ellis Turner,EMEA - Germany,Products,"$163,500",20%
+Consolidated Messenger,Suma Kini,EMEA - Italy,Products,"$155,500",100%
+"Fabrikam, Inc.",Ellis Turner,EMEA - Other,Consulting,"$166,000",10%
+Fourth Coffee,Cora Thomas,APSA - Asia,Training,"$180,000",30%
+Graphic Design Institute,Miho Kojima,APSA - Pacific,Services,"$140,000",60%
+Humongous Insurance,Rowan Murphy,APSA - Mexico,Support,"$155,000",30%
+"Litware, Inc.",Miho Kojima,APSA - Australia,Prof. services,"$173,200",50%
+Lucerne Publishing,Suma Kini,APSA - Other,Services,"$146,500",60%
+Margie's Travel,Ellis Turner,US - Northeast,Support,"$156,750",70%
+Northwind Traders,Cora Thomas,US - South Central,Prof. Services,"$162,000",90%
+"Proseware, Inc.",Ellis Turner,Canada - East,Mixture,"$157,000",100%
+School of Fine Art,Miho Kojima,EMEA - France,Services,"$173,000",40%
+Southridge Video,Suma Kini,EMEA - UK,Mixture,"$171,000",50%
+Tailspin Toys,Rowan Murphy,APSA - Australia,Products,"$168,000",60%
+sample,sample,sample,sample,1,1
