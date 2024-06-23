@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/viktor-dimalanta/Best-README-Template/pull/73 -->
+
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -19,9 +19,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <!-- ABOUT THE PROJECT -->
-## Wordpress CSV Data Manipulation
-
-![image](https://github.com/viktor-dimalanta/wp-excel-data-manipulation/assets/45250045/474d0a99-3989-4201-baa8-87ac66ed679f)
 
 The application is developed to fetch and add data dierctly to CSV and manipulate them to UI
 
