@@ -50,36 +50,12 @@ Functionalities:
 
 _Follow the steps below to install the project in your local machine._
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/viktor-dimalanta/wp-excel-data-manipulation.git
-   ```
-2. Install XAMPP
-   ```sh
-   https://www.apachefriends.org/download.html
-   ```
-3. Install Wordpress
-   ```sh
-   inside xampp/htdocs folder add new wordpress zip downloaded
-   ```
-4. Create Database upon installation
-   ```sh
-   wp-excel-data-manipulation
-   ```
-5. Activate the developed custom theme
-   ```sh
-   goto wordpress admin > apperance > themes > select wp-excel-data-manipulation > activate
-   ```
-6. make sure csv is included 
-   ```sh
-   add the csv file here \wp-excel-data-manipulation\wp-content\uploads
-   ```
 
 ## How to Run
 
 Open browser and type
 
-* http://localhost/wp-excel-data-manipulation/
+* http://localhost/lifecycle-services/
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -109,9 +85,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Viktor Angelo Dimalanta - dimalantaviktorangelo@gmail.com
-
-Project Link: [[https://github.com/viktor-dimalanta](https://github.com/viktor-dimalanta/wp-excel-data-manipulation)]
+Nathanielle Romero - nathanielleromero18@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,18 +96,6 @@ Project Link: [[https://github.com/viktor-dimalanta](https://github.com/viktor-d
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/viktor-dimalanta/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/viktor-dimalanta/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/viktor-dimalanta/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/viktor-dimalanta/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/viktor-dimalanta/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/viktor-dimalanta/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/viktor-dimalanta/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/viktor-dimalanta/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/viktor-dimalanta/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/viktor-dimalanta/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/viktor-dimalanta
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
